@@ -1,0 +1,15 @@
+E:\AidioPlayerProject\AudioPlayer\bin\Debug\AudioPlayer.exe.config
+E:\AidioPlayerProject\AudioPlayer\bin\Debug\AudioPlayer.exe
+E:\AidioPlayerProject\AudioPlayer\bin\Debug\AudioPlayer.pdb
+E:\AidioPlayerProject\AudioPlayer\obj\Debug\AudioPlayer.csproj.AssemblyReference.cache
+E:\AidioPlayerProject\AudioPlayer\obj\Debug\AudioPlayer.Properties.Resources.resources
+E:\AidioPlayerProject\AudioPlayer\obj\Debug\AudioPlayer.csproj.GenerateResource.cache
+E:\AidioPlayerProject\AudioPlayer\obj\Debug\AudioPlayer.csproj.CoreCompileInputs.cache
+E:\AidioPlayerProject\AudioPlayer\obj\Debug\AudioPlayer.exe
+E:\AidioPlayerProject\AudioPlayer\obj\Debug\AudioPlayer.pdb
+E:\AidioPlayerProject\AudioPlayer\bin\Debug\Interop.WMPLib.dll
+E:\AidioPlayerProject\AudioPlayer\bin\Debug\AxInterop.WMPLib.dll
+E:\AidioPlayerProject\AudioPlayer\obj\Debug\Interop.WMPLib.dll
+E:\AidioPlayerProject\AudioPlayer\obj\Debug\AxInterop.WMPLib.dll
+E:\AidioPlayerProject\AudioPlayer\obj\Debug\AudioPlayer.csproj.ResolveComReference.cache
+E:\AidioPlayerProject\AudioPlayer\obj\Debug\AudioPlayer.Form1.resources
