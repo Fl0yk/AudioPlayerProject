@@ -8,6 +8,28 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/fon.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/close.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/close1.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/collapse.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/collapse1.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/depositphotos_214594416-stock-illustration-button-on-off-vector-icon.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/fon1.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/icon.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/left.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/pause.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/play.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/png-transparent-computer-icons-compass-north-close-angle-technic-compass.pn" +
+    "g")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/png-transparent-minimize-ui-basic-interface-basic-interface-icon-thumbnail." +
+    "png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/random.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/random1.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/replay.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/replay1.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/right.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/trash.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/trash1.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/up.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("image/up1.png")]
 
 

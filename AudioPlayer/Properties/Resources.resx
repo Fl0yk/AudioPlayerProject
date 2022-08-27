@@ -118,20 +118,26 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="PLAY" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\PLAY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="CLOSE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\CLOSE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="LEFT" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\LEFT.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="png-transparent-minimize-ui-basic-interface-basic-interface-icon-thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\png-transparent-minimize-ui-basic-interface-basic-interface-icon-thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="REPLAY" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\REPLAY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="хуйня две стрелки вправо" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\хуйня две стрелки вправо.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="COLLAPSE" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\COLLAPSE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="палка стрелка вправо" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\палка стрелка вправо.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="png-transparent-minimize-ui-basic-interface-basic-interface-icon-thumbnail" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\png-transparent-minimize-ui-basic-interface-basic-interface-icon-thumbnail.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="UP" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\UP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="png-transparent-computer-icons-compass-north-close-angle-technic-compass" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\png-transparent-computer-icons-compass-north-close-angle-technic-compass.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -139,34 +145,16 @@
   <data name="RANDOM" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\RANDOM.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="TRASH1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="TRASH" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\TRASH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="PLAY" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\PLAY.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="TRASH1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\image\TRASH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="RIGHT" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\RIGHT.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="CLOSE" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\CLOSE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="UP" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\UP.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="COLLAPSE" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\COLLAPSE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="TRASH" type="System.Resources.ResXFileRef, System.Windows.Forms">
+  <data name="TRASH2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\image\TRASH.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ебать палки и круги" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\ебать палки и круги.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="две стрелки влево" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\две стрелки влево.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="FON" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\image\FON.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

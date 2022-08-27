@@ -83,16 +83,6 @@ namespace AudioPlayer.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap FON {
-            get {
-                object obj = ResourceManager.GetObject("FON", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
         internal static System.Drawing.Bitmap LEFT {
             get {
                 object obj = ResourceManager.GetObject("LEFT", resourceCulture);
@@ -183,49 +173,19 @@ namespace AudioPlayer.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap TRASH2 {
+            get {
+                object obj = ResourceManager.GetObject("TRASH2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap UP {
             get {
                 object obj = ResourceManager.GetObject("UP", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap две_стрелки_влево {
-            get {
-                object obj = ResourceManager.GetObject("две стрелки влево", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap ебать_палки_и_круги {
-            get {
-                object obj = ResourceManager.GetObject("ебать палки и круги", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap палка_стрелка_вправо {
-            get {
-                object obj = ResourceManager.GetObject("палка стрелка вправо", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap хуйня_две_стрелки_вправо {
-            get {
-                object obj = ResourceManager.GetObject("хуйня две стрелки вправо", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -235,6 +235,8 @@ namespace AudioPlayer
                         listAudio.SelectedIndex = 0;
                     else //если песня закончилась и выбрано пустое место, то все обнуляем
                     {
+                        label2.Text = "";
+                        label3.Text = "А где? :(";
                         player.URL = ""; //мб костыль, не нашел метода, который бы обнулил путь к файлу
                         progressBar.Value = 0;
                         labelFinish.Text = "00:00";

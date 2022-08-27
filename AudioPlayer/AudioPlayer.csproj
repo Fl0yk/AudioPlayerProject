@@ -121,10 +121,27 @@
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <None Include="image\TRASH.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="image\FON.jpg" />
+    <Content Include="image\CLOSE.png" />
+    <Content Include="image\CLOSE1.png" />
+    <Content Include="image\COLLAPSE.png" />
+    <Content Include="image\COLLAPSE1.png" />
+    <Content Include="image\depositphotos_214594416-stock-illustration-button-on-off-vector-icon.jpg" />
+    <Content Include="image\FON1.jpg" />
+    <Content Include="image\ICON.ico" />
+    <Content Include="image\LEFT.png" />
+    <Content Include="image\PAUSE.png" />
+    <Content Include="image\PLAY.png" />
+    <Content Include="image\png-transparent-computer-icons-compass-north-close-angle-technic-compass.png" />
+    <Content Include="image\png-transparent-minimize-ui-basic-interface-basic-interface-icon-thumbnail.png" />
+    <Content Include="image\RANDOM.png" />
+    <Content Include="image\RANDOM1.png" />
+    <Content Include="image\REPLAY.png" />
+    <Content Include="image\REPLAY1.png" />
+    <Content Include="image\RIGHT.png" />
+    <Content Include="image\TRASH.png" />
+    <Content Include="image\TRASH1.png" />
+    <Content Include="image\UP.png" />
+    <Content Include="image\UP1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
