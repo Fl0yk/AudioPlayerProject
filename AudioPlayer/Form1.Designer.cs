@@ -71,9 +71,16 @@ namespace AudioPlayer
             // 
             this.progressBar.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.progressBar.ForeColor = System.Drawing.Color.DarkCyan;
+<<<<<<< HEAD
             this.progressBar.Location = new System.Drawing.Point(4, 242);
             this.progressBar.Name = "progressBar";
             this.progressBar.Size = new System.Drawing.Size(463, 8);
+=======
+            this.progressBar.Location = new System.Drawing.Point(5, 298);
+            this.progressBar.Margin = new System.Windows.Forms.Padding(4);
+            this.progressBar.Name = "progressBar";
+            this.progressBar.Size = new System.Drawing.Size(617, 10);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.progressBar.TabIndex = 5;
             this.progressBar.MouseDown += new System.Windows.Forms.MouseEventHandler(this.progressBar_MouseDown);
             // 
@@ -83,10 +90,18 @@ namespace AudioPlayer
             this.listAudio.Font = new System.Drawing.Font("Lucida Console", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.listAudio.ForeColor = System.Drawing.Color.SaddleBrown;
             this.listAudio.FormattingEnabled = true;
+<<<<<<< HEAD
             this.listAudio.ItemHeight = 14;
             this.listAudio.Location = new System.Drawing.Point(77, 41);
             this.listAudio.Name = "listAudio";
             this.listAudio.Size = new System.Drawing.Size(312, 130);
+=======
+            this.listAudio.ItemHeight = 17;
+            this.listAudio.Location = new System.Drawing.Point(103, 51);
+            this.listAudio.Margin = new System.Windows.Forms.Padding(4);
+            this.listAudio.Name = "listAudio";
+            this.listAudio.Size = new System.Drawing.Size(414, 174);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.listAudio.TabIndex = 6;
             this.listAudio.SelectedIndexChanged += new System.EventHandler(this.listAudio_SelectedIndexChanged);
             // 
@@ -95,10 +110,18 @@ namespace AudioPlayer
             this.trackVolume.AutoSize = false;
             this.trackVolume.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.trackVolume.LargeChange = 0;
+<<<<<<< HEAD
             this.trackVolume.Location = new System.Drawing.Point(307, 264);
             this.trackVolume.Maximum = 100;
             this.trackVolume.Name = "trackVolume";
             this.trackVolume.Size = new System.Drawing.Size(100, 31);
+=======
+            this.trackVolume.Location = new System.Drawing.Point(409, 325);
+            this.trackVolume.Margin = new System.Windows.Forms.Padding(4);
+            this.trackVolume.Maximum = 100;
+            this.trackVolume.Name = "trackVolume";
+            this.trackVolume.Size = new System.Drawing.Size(133, 38);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.trackVolume.TabIndex = 8;
             this.trackVolume.TickStyle = System.Windows.Forms.TickStyle.None;
             this.trackVolume.Scroll += new System.EventHandler(this.trackVolume_Scroll);
@@ -108,9 +131,16 @@ namespace AudioPlayer
             this.labelFinish.AutoSize = true;
             this.labelFinish.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.labelFinish.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+<<<<<<< HEAD
             this.labelFinish.Location = new System.Drawing.Point(422, 257);
             this.labelFinish.Name = "labelFinish";
             this.labelFinish.Size = new System.Drawing.Size(44, 18);
+=======
+            this.labelFinish.Location = new System.Drawing.Point(562, 316);
+            this.labelFinish.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.labelFinish.Name = "labelFinish";
+            this.labelFinish.Size = new System.Drawing.Size(55, 24);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.labelFinish.TabIndex = 10;
             this.labelFinish.Text = "00:00";
             // 
@@ -124,9 +154,16 @@ namespace AudioPlayer
             this.labelNow.AutoSize = true;
             this.labelNow.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.labelNow.Font = new System.Drawing.Font("Microsoft Sans Serif", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+<<<<<<< HEAD
             this.labelNow.Location = new System.Drawing.Point(10, 254);
             this.labelNow.Name = "labelNow";
             this.labelNow.Size = new System.Drawing.Size(44, 18);
+=======
+            this.labelNow.Location = new System.Drawing.Point(13, 313);
+            this.labelNow.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.labelNow.Name = "labelNow";
+            this.labelNow.Size = new System.Drawing.Size(55, 24);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.labelNow.TabIndex = 11;
             this.labelNow.Text = "00:00";
             // 
@@ -136,15 +173,26 @@ namespace AudioPlayer
             this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.label1.Font = new System.Drawing.Font("Lucida Console", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label1.ForeColor = System.Drawing.Color.SaddleBrown;
+<<<<<<< HEAD
             this.label1.Location = new System.Drawing.Point(121, 200);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(0, 11);
+=======
+            this.label1.Location = new System.Drawing.Point(161, 246);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(0, 14);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.label1.TabIndex = 13;
             // 
             // player
             // 
             this.player.Enabled = true;
             this.player.Location = new System.Drawing.Point(243, 147);
+<<<<<<< HEAD
+=======
+            this.player.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.player.Name = "player";
             this.player.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("player.OcxState")));
             this.player.Size = new System.Drawing.Size(10, 10);
@@ -153,12 +201,20 @@ namespace AudioPlayer
             // AudioName
             // 
             this.AudioName.AutoSize = true;
+<<<<<<< HEAD
             this.AudioName.Font = new System.Drawing.Font("Comic Sans MS", 9F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.AudioName.ForeColor = System.Drawing.Color.SaddleBrown;
             this.AudioName.Location = new System.Drawing.Point(7, 9);
             this.AudioName.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.AudioName.Name = "AudioName";
             this.AudioName.Size = new System.Drawing.Size(68, 18);
+=======
+            this.AudioName.Font = new System.Drawing.Font("Monotype Corsiva", 10.2F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.AudioName.ForeColor = System.Drawing.Color.SaddleBrown;
+            this.AudioName.Location = new System.Drawing.Point(5, 11);
+            this.AudioName.Name = "AudioName";
+            this.AudioName.Size = new System.Drawing.Size(87, 20);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.AudioName.TabIndex = 23;
             this.AudioName.Text = "APDplayer";
             this.AudioName.DoubleClick += new System.EventHandler(this.AudioName_DoubleClick);
@@ -167,10 +223,16 @@ namespace AudioPlayer
             // 
             this.trash.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.trash.Image = global::AudioPlayer.Properties.Resources.TRASH1;
+<<<<<<< HEAD
             this.trash.Location = new System.Drawing.Point(263, 257);
             this.trash.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.trash.Name = "trash";
             this.trash.Size = new System.Drawing.Size(30, 33);
+=======
+            this.trash.Location = new System.Drawing.Point(351, 316);
+            this.trash.Name = "trash";
+            this.trash.Size = new System.Drawing.Size(40, 41);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.trash.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.trash.TabIndex = 22;
             this.trash.TabStop = false;
@@ -182,10 +244,16 @@ namespace AudioPlayer
             // 
             this.up.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.up.Image = global::AudioPlayer.Properties.Resources.UP;
+<<<<<<< HEAD
             this.up.Location = new System.Drawing.Point(229, 257);
             this.up.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.up.Name = "up";
             this.up.Size = new System.Drawing.Size(30, 33);
+=======
+            this.up.Location = new System.Drawing.Point(305, 316);
+            this.up.Name = "up";
+            this.up.Size = new System.Drawing.Size(40, 41);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.up.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.up.TabIndex = 21;
             this.up.TabStop = false;
@@ -197,10 +265,16 @@ namespace AudioPlayer
             // 
             this.right.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.right.Image = global::AudioPlayer.Properties.Resources.RIGHT;
+<<<<<<< HEAD
             this.right.Location = new System.Drawing.Point(194, 257);
             this.right.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.right.Name = "right";
             this.right.Size = new System.Drawing.Size(30, 33);
+=======
+            this.right.Location = new System.Drawing.Point(259, 316);
+            this.right.Name = "right";
+            this.right.Size = new System.Drawing.Size(40, 41);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.right.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.right.TabIndex = 21;
             this.right.TabStop = false;
@@ -210,10 +284,16 @@ namespace AudioPlayer
             // 
             this.playPause.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.playPause.Image = global::AudioPlayer.Properties.Resources.PLAY;
+<<<<<<< HEAD
             this.playPause.Location = new System.Drawing.Point(160, 257);
             this.playPause.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.playPause.Name = "playPause";
             this.playPause.Size = new System.Drawing.Size(30, 33);
+=======
+            this.playPause.Location = new System.Drawing.Point(213, 316);
+            this.playPause.Name = "playPause";
+            this.playPause.Size = new System.Drawing.Size(40, 41);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.playPause.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.playPause.TabIndex = 21;
             this.playPause.TabStop = false;
@@ -223,10 +303,16 @@ namespace AudioPlayer
             // 
             this.left.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.left.Image = global::AudioPlayer.Properties.Resources.LEFT;
+<<<<<<< HEAD
             this.left.Location = new System.Drawing.Point(125, 257);
             this.left.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.left.Name = "left";
             this.left.Size = new System.Drawing.Size(30, 33);
+=======
+            this.left.Location = new System.Drawing.Point(167, 316);
+            this.left.Name = "left";
+            this.left.Size = new System.Drawing.Size(40, 41);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.left.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.left.TabIndex = 21;
             this.left.TabStop = false;
@@ -236,10 +322,16 @@ namespace AudioPlayer
             // 
             this.random.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.random.Image = global::AudioPlayer.Properties.Resources.RANDOM;
+<<<<<<< HEAD
             this.random.Location = new System.Drawing.Point(91, 257);
             this.random.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.random.Name = "random";
             this.random.Size = new System.Drawing.Size(30, 33);
+=======
+            this.random.Location = new System.Drawing.Point(121, 316);
+            this.random.Name = "random";
+            this.random.Size = new System.Drawing.Size(40, 41);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.random.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.random.TabIndex = 21;
             this.random.TabStop = false;
@@ -249,10 +341,16 @@ namespace AudioPlayer
             // 
             this.replay.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.replay.Image = global::AudioPlayer.Properties.Resources.REPLAY;
+<<<<<<< HEAD
             this.replay.Location = new System.Drawing.Point(56, 257);
             this.replay.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.replay.Name = "replay";
             this.replay.Size = new System.Drawing.Size(30, 33);
+=======
+            this.replay.Location = new System.Drawing.Point(75, 316);
+            this.replay.Name = "replay";
+            this.replay.Size = new System.Drawing.Size(40, 41);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.replay.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.replay.TabIndex = 21;
             this.replay.TabStop = false;
@@ -262,10 +360,16 @@ namespace AudioPlayer
             // 
             this.collapse.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.collapse.Image = global::AudioPlayer.Properties.Resources.COLLAPSE;
+<<<<<<< HEAD
             this.collapse.Location = new System.Drawing.Point(416, 10);
             this.collapse.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.collapse.Name = "collapse";
             this.collapse.Size = new System.Drawing.Size(20, 20);
+=======
+            this.collapse.Location = new System.Drawing.Point(555, 12);
+            this.collapse.Name = "collapse";
+            this.collapse.Size = new System.Drawing.Size(26, 25);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.collapse.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.collapse.TabIndex = 20;
             this.collapse.TabStop = false;
@@ -277,10 +381,16 @@ namespace AudioPlayer
             // 
             this.close.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.close.Image = global::AudioPlayer.Properties.Resources.CLOSE;
+<<<<<<< HEAD
             this.close.Location = new System.Drawing.Point(440, 10);
             this.close.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.close.Name = "close";
             this.close.Size = new System.Drawing.Size(23, 20);
+=======
+            this.close.Location = new System.Drawing.Point(587, 12);
+            this.close.Name = "close";
+            this.close.Size = new System.Drawing.Size(31, 25);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.close.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.close.TabIndex = 19;
             this.close.TabStop = false;
@@ -291,38 +401,63 @@ namespace AudioPlayer
             // panel1
             // 
             this.panel1.Controls.Add(this.label2);
+<<<<<<< HEAD
             this.panel1.Location = new System.Drawing.Point(182, 205);
             this.panel1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(164, 20);
+=======
+            this.panel1.Location = new System.Drawing.Point(243, 252);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(218, 24);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.panel1.TabIndex = 24;
             // 
             // label2
             // 
             this.label2.Font = new System.Drawing.Font("Lucida Console", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label2.ForeColor = System.Drawing.Color.SaddleBrown;
+<<<<<<< HEAD
             this.label2.Location = new System.Drawing.Point(2, 3);
             this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(112, 15);
+=======
+            this.label2.Location = new System.Drawing.Point(3, 4);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(149, 19);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.label2.TabIndex = 0;
             // 
             // label3
             // 
             this.label3.Font = new System.Drawing.Font("Lucida Console", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label3.ForeColor = System.Drawing.Color.SaddleBrown;
+<<<<<<< HEAD
             this.label3.Location = new System.Drawing.Point(126, 208);
             this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(66, 19);
+=======
+            this.label3.Location = new System.Drawing.Point(168, 256);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(88, 23);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.label3.TabIndex = 25;
             // 
             // Form1
             // 
+<<<<<<< HEAD
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.ClientSize = new System.Drawing.Size(472, 306);
+=======
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
+            this.ClientSize = new System.Drawing.Size(630, 376);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.Controls.Add(this.label3);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.AudioName);
@@ -344,6 +479,10 @@ namespace AudioPlayer
             this.Controls.Add(this.trackVolume);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+<<<<<<< HEAD
+=======
+            this.Margin = new System.Windows.Forms.Padding(4);
+>>>>>>> fd3ccbecfdf590c0293be95bfba94bdf60d2d61c
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
