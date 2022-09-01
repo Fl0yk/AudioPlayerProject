@@ -55,3 +55,4 @@ E:\AidioPlayerProject\AudioPlayer\obj\Debug\App.baml
 E:\AidioPlayerProject\AudioPlayer\obj\Debug\MainWindow.baml
 E:\AidioPlayerProject\AudioPlayer\obj\Debug\AudioPlayer.g.resources
 E:\AidioPlayerProject\AudioPlayer\obj\Debug\AudioPlayer_Content.g.cs
+E:\AidioPlayerProject\AudioPlayer\obj\Debug\AudioPlayer.csproj.AssemblyReference.cache
